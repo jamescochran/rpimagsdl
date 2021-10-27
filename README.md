@@ -1,5 +1,5 @@
 # rpimagsdl
-Script to download allt he free magazines from raspberrypi.org
+Script to download all the free magazines from raspberrypi.org
 
 Today I realized that all the links for the magazine downloads had a similar structure but changed the issue number. 
 So I decided to google about wget a bit to figure out how I could grab them all. 
